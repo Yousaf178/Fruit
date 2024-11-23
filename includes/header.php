@@ -9,7 +9,7 @@
                  				
 			</div>
 			<div>
-				<h3 style="text-align:center;margin-bottom:-20px;color:white;"> Pakitan FRUITS COMPANY </h3>
+				<h3 style="text-align:center;margin-bottom:-20px;color:white;"> MAINI FRUITS COMPANY </h3>
 				
 				</div>
 			<div class="w3ls-bnr-icons social-w3licon navbar-right">
