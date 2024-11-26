@@ -107,7 +107,7 @@ $db = new mysqli("localhost","root","","swat_fruit");
 		<div class="container"style="margin-left:250px;"> 
 			 
 			<div class="row">
-			<h1 class="agileits"style="margin-left:300px;color:blue"><u>Available Fruits Below</u> </h1><br>	
+			<h1 class="agileits"style="margin-left:300px;color:blue"><u>All Fruits are Available Below</u> </h1><br>	
 				<div class="clearfix"> </div>
 			</div>
 			<div class="w3-agileits-news-grids  news-w3row3">
